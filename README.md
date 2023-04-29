@@ -7,13 +7,13 @@ If no text is selected, the tool copies the title and URL.
 In the case of Amazon, the URL is shortened.
 
 ```text
-<https://www.amazon.com/Victorinox-Swiss-Classic-Pocket-Knife/dp/B00004YVB2?ref_=ast_sto_dp&th=1>
+https://www.amazon.com/Victorinox-Swiss-Classic-Pocket-Knife/dp/B00004YVB2?ref_=ast_sto_dp&th=1
 ```
 
 ↓ Paste
 
 ```text
-<https://www.amazon.com/dp/B00004YVB2>
+https://www.amazon.com/dp/B00004YVB2
 ```
 
 ## C-m
