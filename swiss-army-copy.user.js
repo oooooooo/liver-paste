@@ -20,7 +20,6 @@
       const match = amazonUrl.exec(url)
       if (match) {
         url = `${match.groups.url}/dp/${match.groups.asin}`
-        console.log('amazon!', url)
       }
 
       navigator.clipboard.writeText(`${document.title}\n${url}`)
