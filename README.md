@@ -1,6 +1,13 @@
 # Swiss Army Copy
 
-## C-c
+## Install
+
+1. Install [Violentmonkey](https://violentmonkey.github.io/)
+2. Click [Swiss Army Copy](https://github.com/oooooooo/swiss-army-copy/raw/main/swiss-army-copy.user.js)
+
+## Usage
+
+### C-c
 
 If no text is selected, the tool copies the title and URL.
 
@@ -16,7 +23,7 @@ https://www.amazon.com/Victorinox-Swiss-Classic-Pocket-Knife/dp/B00004YVB2?ref_=
 https://www.amazon.com/dp/B00004YVB2
 ```
 
-## C-m
+### C-m
 
 Create links in markdown format
 
@@ -24,7 +31,7 @@ Create links in markdown format
 [title](url)
 ```
 
-## C-q
+### C-q
 
 Create quote in markdown format
 
@@ -45,6 +52,10 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 >
 > Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ```
+
+## Related
+
+- [Auto Copy](https://chrome.google.com/webstore/detail/auto-copy/bijpdibkloghppkbmhcklkogpjaenfkg)
 
 ## License
 
