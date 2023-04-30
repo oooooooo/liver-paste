@@ -4,8 +4,11 @@
 // @description Formats copy output in multiple formats
 // @match       *://*/*
 // @grant       GM_setClipboard
-// @version     0.9.0
+// @version     0.9.1
 // @author      oooooooo
+// @updateURL    https://github.com/oooooooo/swiss-army-copy/raw/main/swiss-army-copy.user.js
+// @downloadURL  https://github.com/oooooooo/swiss-army-copy/raw/main/swiss-army-copy.user.js
+// @supportURL   https://github.com/oooooooo/swiss-army-copy/
 // ==/UserScript==
 
 (function () {
